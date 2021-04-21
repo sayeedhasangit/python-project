@@ -1,2 +1,2 @@
 # python-project
-first django project
+first django project development
